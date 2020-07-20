@@ -1,6 +1,4 @@
-# ecommerce-customer
-
-CLIENT_URL: `https://ecommerce-customer-by-nafies1.firebaseapp.com`
+# Show Manager and Staff Data
 
 ## Project setup
 ```
